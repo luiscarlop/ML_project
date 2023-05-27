@@ -1,2 +1,4 @@
-# ML_project
-A project about a real case of a gold recovery company solved using ML.
+# Instructions
+
+Download the csv files, unzip the "gold_recovery_full.csv" file and put them into a "data" folder.
+You may also change the path directory in the code.
